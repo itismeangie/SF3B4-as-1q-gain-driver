@@ -18,9 +18,8 @@ Controlled-access human data, sensitive patient/sample-level data, raw data, pre
 
 ## Before Final Submission
 
-Replace the placeholders above with:
+Before final submission, replace the remaining DOI placeholder with:
 
-- Final GitHub repository URL.
 - Zenodo DOI generated from the release archive.
 - Final paper citation or preprint DOI, if available.
-- Final author list in `CITATION.cff` and `.zenodo.json`.
+- Final author list in `CITATION.cff` and `.zenodo.json`, if it changes during proofing.

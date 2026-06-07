@@ -6,8 +6,8 @@ Use this checklist before making the repository public or archiving it on Zenodo
 
 - [ ] Confirm repository name: `SF3B4 as 1q gain driver`.
 - [ ] Confirm `VERSION`, `CHANGELOG.md`, and `CITATION.cff` use the same release version.
-- [ ] Replace placeholder GitHub URL in `CITATION.cff` and `docs/CODE_AVAILABILITY.md`.
-- [ ] Replace placeholder creator metadata in `CITATION.cff` and `.zenodo.json` with the final author list.
+- [ ] Confirm the GitHub URL in `CITATION.cff` and `docs/CODE_AVAILABILITY.md`.
+- [ ] Confirm author metadata in `AUTHORS.md`, `CITATION.cff`, and `.zenodo.json` against the accepted manuscript proofs.
 - [ ] Confirm the MIT license is approved by the institution and all coauthors, or replace `LICENSE` with the approved license.
 - [ ] Add the Zenodo DOI after archiving.
 

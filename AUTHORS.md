@@ -1,12 +1,31 @@
-# Authors And Contributors
+# Authors
 
-This file should be updated with the final manuscript author list before public release.
+Author list extracted from the current prepublication manuscript file.
 
-Current placeholder:
+- Angelina Yershova
+- Annika Jeschke
+- J-Ann Lego
+- Florian H. Geyer
+- Wencan Zhu
+- Anastasiia Sergeeva
+- Pablo Taboas
+- Lovro Marjanovich
+- Martha Carreno Gonzales
+- Anna Ehlers
+- Felina Zahnow
+- Clémence Henon
+- Albert Li
+- Carl M. Herrmann
+- Supat Thongjuea
+- Jeroen Krijgsveld
+- Uta Dirksen
+- Shunya Ohmura
+- Thomas G. P. Grünewald
+- Jing Li
 
-- Yershova et al.
+Corresponding author in the manuscript: Jing Li.
 
-Use the same final contributor names in:
+Before final publication, confirm this list against the accepted manuscript proofs and mirror any final changes in:
 
 - `CITATION.cff`
 - `.zenodo.json`

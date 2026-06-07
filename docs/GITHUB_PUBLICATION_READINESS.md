@@ -28,7 +28,7 @@ Filename-only references to controlled inputs are acceptable for provenance.
 ## Remaining Pre-Push Items
 
 1. Confirm the MIT license in `LICENSE` is approved by the institution and coauthors, or replace it with the approved license.
-2. Replace placeholder author, GitHub URL, and DOI fields in `CITATION.cff`, `.zenodo.json`, and `docs/CODE_AVAILABILITY.md`.
+2. Confirm the author list in `AUTHORS.md`, `CITATION.cff`, and `.zenodo.json` against the accepted manuscript proofs.
 3. Run `python3 docs/check_rerun_readiness.py --write docs/rerun_path_audit.tsv` and classify unresolved paths as controlled, public-download, generated, or legacy.
 4. Confirm no sensitive files are present using the file checks in `docs/MANUSCRIPT_TOPIC_CODE_BLOCKS.md`.
 5. Review `docs/sensitive_data_file_inventory.tsv`; it should remain filename-only.

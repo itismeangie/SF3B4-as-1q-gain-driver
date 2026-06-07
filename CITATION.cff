@@ -3,7 +3,46 @@ message: "If you use this code, please cite the associated manuscript and this a
 title: "SF3B4 as 1q gain driver: computational analysis code"
 type: software
 authors:
-  - name: "Yershova et al."
+  - given-names: Angelina
+    family-names: Yershova
+  - given-names: Annika
+    family-names: Jeschke
+  - given-names: J-Ann
+    family-names: Lego
+  - given-names: Florian H.
+    family-names: Geyer
+  - given-names: Wencan
+    family-names: Zhu
+  - given-names: Anastasiia
+    family-names: Sergeeva
+  - given-names: Pablo
+    family-names: Taboas
+  - given-names: Lovro
+    family-names: Marjanovich
+  - given-names: Martha
+    family-names: Carreno Gonzales
+  - given-names: Anna
+    family-names: Ehlers
+  - given-names: Felina
+    family-names: Zahnow
+  - given-names: Clémence
+    family-names: Henon
+  - given-names: Albert
+    family-names: Li
+  - given-names: Carl M.
+    family-names: Herrmann
+  - given-names: Supat
+    family-names: Thongjuea
+  - given-names: Jeroen
+    family-names: Krijgsveld
+  - given-names: Uta
+    family-names: Dirksen
+  - given-names: Shunya
+    family-names: Ohmura
+  - given-names: Thomas G. P.
+    family-names: Grünewald
+  - given-names: Jing
+    family-names: Li
 version: "0.1.0-prepublication"
 date-released: "2026-06-07"
 license: MIT

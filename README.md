@@ -24,7 +24,7 @@ Sensitive human subject and controlled-access inputs are not included. Public do
 - Version: `VERSION`
 - Changelog: `CHANGELOG.md`
 - License: `LICENSE`
-- Author/contributor placeholder: `AUTHORS.md`
+- Authors: `AUTHORS.md`
 - Citation metadata: `CITATION.cff`
 - Zenodo metadata template: `.zenodo.json`
 - Dependency notes: `docs/DEPENDENCIES.md`

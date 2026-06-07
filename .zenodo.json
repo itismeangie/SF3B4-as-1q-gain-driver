@@ -1,9 +1,66 @@
 {
   "title": "SF3B4 as 1q gain driver: computational analysis code",
-  "description": "Computational analysis code supporting the manuscript on SF3B4 as a 1q gain driver. Controlled-access human data, raw data, CFA code, plotting code, generated figures, and local caches are not included.",
+  "description": "Computational analysis code supporting the manuscript on SF3B4 as a 1q gain driver. Controlled-access human data, raw data, previously published assay code, plotting code, generated figures, and local caches are not included.",
   "creators": [
     {
-      "name": "Yershova et al."
+      "name": "Yershova, Angelina"
+    },
+    {
+      "name": "Jeschke, Annika"
+    },
+    {
+      "name": "Lego, J-Ann"
+    },
+    {
+      "name": "Geyer, Florian H."
+    },
+    {
+      "name": "Zhu, Wencan"
+    },
+    {
+      "name": "Sergeeva, Anastasiia"
+    },
+    {
+      "name": "Taboas, Pablo"
+    },
+    {
+      "name": "Marjanovich, Lovro"
+    },
+    {
+      "name": "Carreno Gonzales, Martha"
+    },
+    {
+      "name": "Ehlers, Anna"
+    },
+    {
+      "name": "Zahnow, Felina"
+    },
+    {
+      "name": "Henon, Clémence"
+    },
+    {
+      "name": "Li, Albert"
+    },
+    {
+      "name": "Herrmann, Carl M."
+    },
+    {
+      "name": "Thongjuea, Supat"
+    },
+    {
+      "name": "Krijgsveld, Jeroen"
+    },
+    {
+      "name": "Dirksen, Uta"
+    },
+    {
+      "name": "Ohmura, Shunya"
+    },
+    {
+      "name": "Grünewald, Thomas G. P."
+    },
+    {
+      "name": "Li, Jing"
     }
   ],
   "license": "MIT",
