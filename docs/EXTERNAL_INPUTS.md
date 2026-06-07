@@ -1,6 +1,6 @@
 # External Inputs
 
-This repository does not include sensitive human subject data, controlled-access data, raw data, raw proteomics files, NetBID2 workspaces, animal source workbooks, plotting scripts, or generated figures. File names are documented for provenance only.
+This repository does not include sensitive human subject data, controlled-access data, raw data, raw proteomics files, NetBID2 workspaces, animal source workbooks, or generated figures. File names are documented for provenance only.
 
 ## 01 Pan-Cancer 1q
 

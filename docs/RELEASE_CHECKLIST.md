@@ -14,7 +14,7 @@ Use this checklist before making the repository public or archiving it on Zenodo
 ## Data Boundary
 
 - [ ] Confirm no controlled human data files are present.
-- [ ] Confirm no raw sequencing, raw proteomics, NetBID2 workspaces, animal source workbooks, previously published assay files, plotting scripts, generated figures, or local caches are present.
+- [ ] Confirm no raw sequencing, raw proteomics, NetBID2 workspaces, animal source workbooks, generated figures, or local caches are present.
 - [ ] Review `docs/sensitive_data_file_inventory.tsv`; it should remain filename-only.
 - [ ] Review `docs/EXTERNAL_INPUTS.md` for accurate access notes.
 

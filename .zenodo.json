@@ -1,6 +1,6 @@
 {
   "title": "SF3B4 as 1q gain driver: computational analysis code",
-  "description": "Computational analysis code supporting the manuscript on SF3B4 as a 1q gain driver. Controlled-access human data, raw data, previously published assay code, plotting code, generated figures, and local caches are not included.",
+  "description": "Computational analysis code supporting the manuscript on SF3B4 as a 1q gain driver. The repository contains lightweight analysis scripts and documentation; controlled-access data, raw data, generated figures, and local caches are not distributed.",
   "creators": [
     {
       "name": "Yershova, Angelina"

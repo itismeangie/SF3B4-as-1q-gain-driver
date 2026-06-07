@@ -1,6 +1,6 @@
 # Manuscript Topic Code Blocks
 
-Use these blocks from the repository root. The top-level folders are the manuscript topics, and each folder contains its own computational scripts. Plotting, figure-rendering, previously published assay code, generated figures, and sensitive data contents are intentionally excluded.
+Use these blocks from the repository root. The top-level folders are the manuscript topics, and each folder contains its own computational scripts. Generated figures and sensitive data contents are not distributed with this repository.
 
 Sensitive human subject and controlled-access inputs must stay outside Git. Filename-only references are allowed for provenance. Use environment variables to point to local controlled storage when rerunning analyses that require those files.
 

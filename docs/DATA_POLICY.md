@@ -1,6 +1,6 @@
 # Data Tracking Policy
 
-This repository tracks computational analysis code and filename-only provenance for required external inputs. It does not track plotting code, generated figures, previously published assay code, sensitive data contents, or raw-data archives.
+This repository tracks computational analysis code and filename-only provenance for required external inputs. It does not track generated figures, sensitive data contents, or raw-data archives.
 
 For a public GitHub release, sensitive human subject or controlled-access data must not be included. It is acceptable to document the names of required controlled input files, but not their row-level contents. This includes patient IDs, internal registry IDs, sample IDs, dates, birth years, treatment-center fields, survival/event fields, sample maps, and any table that can link a sample to clinical outcome or controlled sequencing data.
 
@@ -17,7 +17,7 @@ It does not track:
 - Any file larger than the importer limit, currently 25 MiB.
 - Human patient/sample-level clinical, survival, registry, molecular-sample-map, or controlled-access metadata. Public documentation may list the file names and expected roles only.
 
-The goal is a reproducible, readable public computational-code repository, not a plotting repository, raw-data archive, or controlled-data mirror. Heavy/raw and sensitive assets should stay in approved external storage and be referenced through filename-only manifests.
+The goal is a reproducible, readable public computational-code repository, not a raw-data archive or controlled-data mirror. Heavy/raw and sensitive assets should stay in approved external storage and be referenced through filename-only manifests.
 
 ## Review Rules
 
@@ -25,7 +25,7 @@ Before public release, keep only lightweight source-code and documentation files
 
 - Controlled or patient/sample-level data contents.
 - Raw sequencing, raw proteomics, raw NetBID2, or source animal workbook files.
-- Generated figures, plotting scripts, local caches, or package libraries.
+- Generated figures, local caches, or package libraries.
 - Files that can be regenerated from controlled inputs unless explicitly approved as deidentified derived tables.
 
 If a future analysis requires a file currently excluded, add a deidentified aggregate or controlled-access retrieval note rather than committing the raw, linked, or sensitive source file.

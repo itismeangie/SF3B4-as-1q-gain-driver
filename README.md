@@ -1,6 +1,6 @@
 # SF3B4 as 1q gain driver
 
-Computational-analysis code package for the manuscript. The repository is organized by manuscript topic and intentionally excludes plotting scripts, generated figures, workbooks, local caches, previously published assay code, and sensitive human subject files.
+Computational-analysis code package for the associated SF3B4/chr1q gain study. The repository is organized by manuscript topic and contains lightweight source code and documentation for the analyses.
 
 Current version: `0.1.0`.
 
@@ -17,7 +17,7 @@ Each topic folder contains its respective computational scripts, a local `run.sh
 
 ## Data Boundary
 
-Sensitive human subject and controlled-access inputs are not included. Public documentation may mention required input filenames, but not their contents. Set the environment variables documented in `docs/MANUSCRIPT_TOPIC_CODE_BLOCKS.md` when rerunning controlled-data analyses locally.
+Controlled-access and sensitive inputs are not distributed with this repository. Public documentation lists required input filenames and access boundaries without including their contents. Set the environment variables documented in `docs/MANUSCRIPT_TOPIC_CODE_BLOCKS.md` when rerunning controlled-data analyses locally.
 
 ## Publication Metadata
 
@@ -29,8 +29,8 @@ Sensitive human subject and controlled-access inputs are not included. Public do
 - Zenodo metadata template: `.zenodo.json`
 - Dependency notes: `docs/DEPENDENCIES.md`
 - External input manifest: `docs/EXTERNAL_INPUTS.md`
-- Draft code-availability wording: `docs/CODE_AVAILABILITY.md`
-- Pre-publication checklist: `docs/RELEASE_CHECKLIST.md`
+- Code availability wording: `docs/CODE_AVAILABILITY.md`
+- Release checklist: `docs/RELEASE_CHECKLIST.md`
 
 ## Quick Start
 

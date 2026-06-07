@@ -1,6 +1,6 @@
 # Authors
 
-Author list extracted from the current manuscript file.
+Author list for the associated manuscript.
 
 - Angelina Yershova
 - Annika Jeschke
@@ -23,11 +23,4 @@ Author list extracted from the current manuscript file.
 - Thomas G. P. Grünewald
 - Jing Li
 
-Corresponding author in the manuscript: Jing Li.
-
-Keep this list synchronized with manuscript proof changes in:
-
-- `CITATION.cff`
-- `.zenodo.json`
-- The Zenodo release metadata
-- The manuscript Code Availability statement, if named contributors are listed there
+Corresponding author: Jing Li.
