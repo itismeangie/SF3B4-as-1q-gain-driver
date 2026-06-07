@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0-prepublication
+## 0.1.0
 
 - Organized computational analysis code by manuscript topic at the repository root.
 - Excluded plotting code, generated figures, previously published assay code, raw data, sensitive human data, and local caches.

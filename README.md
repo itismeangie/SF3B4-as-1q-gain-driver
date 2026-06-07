@@ -2,7 +2,7 @@
 
 Computational-analysis code package for the manuscript. The repository is organized by manuscript topic and intentionally excludes plotting scripts, generated figures, workbooks, local caches, previously published assay code, and sensitive human subject files.
 
-Current version: `0.1.0-prepublication`.
+Current version: `0.1.0`.
 
 ## Topics
 

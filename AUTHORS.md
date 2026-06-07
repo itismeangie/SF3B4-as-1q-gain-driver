@@ -1,6 +1,6 @@
 # Authors
 
-Author list extracted from the current prepublication manuscript file.
+Author list extracted from the current manuscript file.
 
 - Angelina Yershova
 - Annika Jeschke
@@ -25,7 +25,7 @@ Author list extracted from the current prepublication manuscript file.
 
 Corresponding author in the manuscript: Jing Li.
 
-Before final publication, confirm this list against the accepted manuscript proofs and mirror any final changes in:
+Keep this list synchronized with manuscript proof changes in:
 
 - `CITATION.cff`
 - `.zenodo.json`

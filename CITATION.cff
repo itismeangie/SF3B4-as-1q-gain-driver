@@ -43,7 +43,7 @@ authors:
     family-names: Grünewald
   - given-names: Jing
     family-names: Li
-version: "0.1.0-prepublication"
+version: "0.1.0"
 date-released: "2026-06-07"
 license: MIT
 repository-code: "https://github.com/itismeangie/SF3B4-as-1q-gain-driver"
