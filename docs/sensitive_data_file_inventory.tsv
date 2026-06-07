@@ -1,0 +1,9 @@
+file_path	public_release_status	reason	action
+combined_df.csv	exclude_content	Human cohort survival/CNA table with sample-level identifiers and outcome fields	Remove from public Git history or replace with a deidentified aggregate table
+MARVINextract_Inform_EwingSarcoma_20240807.xlsx	exclude_content	Legacy INFORM registry extract workbook	Keep filename only in documentation; do not publish contents
+MARVINextract_Inform_EwingSarcoma_20240807.csv	exclude_content	INFORM registry extract with patient-level clinical fields	Keep filename only in documentation; do not publish contents
+inform_rnaseq_sample_map.csv	exclude_content	INFORM RNA-seq sample map linking internal IDs to sequencing sample IDs	Keep filename only in documentation; do not publish contents
+inform_rnaseq_sample_map_matched.csv	exclude_content	INFORM RNA-seq sample map linking internal IDs to matched sequencing sample IDs	Keep filename only in documentation; do not publish contents
+manual_final_inform.csv	exclude_content	INFORM manual CNA/status table with sample-level records	Keep filename only in documentation; do not publish contents
+meth_metadata.csv	review_before_release	Methylation metadata may contain sample-level identifiers or controlled cohort links	Release only after confirming it is deidentified and approved
+my_metadata.csv	review_before_release	Analysis metadata may contain sample-level identifiers or controlled cohort links	Release only after confirming it is deidentified and approved

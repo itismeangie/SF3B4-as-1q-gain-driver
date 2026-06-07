@@ -1,0 +1,25 @@
+name: sf3b4-1q-gain-driver
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - numpy
+  - openpyxl
+  - pandas
+  - r-base>=4.4
+  - r-broom
+  - r-data.table
+  - r-dplyr
+  - r-readr
+  - r-readxl
+  - r-survival
+  - r-tibble
+  - r-tidyr
+  - r-tidyverse
+  - bioconductor-biobase
+  - bioconductor-biocparallel
+  - bioconductor-deseq2
+  - bioconductor-edger
+  - bioconductor-fgsea
+  - bioconductor-limma

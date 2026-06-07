@@ -1,0 +1,20 @@
+{
+  "title": "SF3B4 as 1q gain driver: computational analysis code",
+  "description": "Computational analysis code supporting the manuscript on SF3B4 as a 1q gain driver. Controlled-access human data, raw data, CFA code, plotting code, generated figures, and local caches are not included.",
+  "creators": [
+    {
+      "name": "Yershova et al."
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "SF3B4",
+    "1q gain",
+    "Ewing sarcoma",
+    "cancer genomics",
+    "proteomics",
+    "NetBID2"
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}

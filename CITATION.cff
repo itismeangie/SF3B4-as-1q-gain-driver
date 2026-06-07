@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and this archived software repository."
+title: "SF3B4 as 1q gain driver: computational analysis code"
+type: software
+authors:
+  - name: "Yershova et al."
+version: "0.1.0-prepublication"
+date-released: "2026-06-07"
+license: MIT
+repository-code: "https://github.com/itismeangie/SF3B4-as-1q-gain-driver"
+abstract: "Computational analysis code supporting the manuscript on SF3B4 as a 1q gain driver."
+keywords:
+  - SF3B4
+  - 1q gain
+  - Ewing sarcoma
+  - cancer genomics
+  - proteomics
+  - NetBID2
