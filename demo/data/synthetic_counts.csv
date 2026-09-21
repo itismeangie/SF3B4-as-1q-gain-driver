@@ -1,0 +1,4 @@
+scenario,activator_1q,activator_other,repressor_1q,repressor_other
+Toy enrichment,8,2,2,8
+Toy balance,5,5,5,5
+Toy depletion,2,8,8,2
