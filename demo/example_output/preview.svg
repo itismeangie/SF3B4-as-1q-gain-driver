@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="562" viewBox="0 0 1000 562" role="img" aria-labelledby="title desc">
+<title id="title">Synthetic count-table demonstration, not study results</title>
+<desc id="desc">Invented scenarios compare the fraction on 1q in two toy gene-role groups, with one-sided Fisher p-values and BH-adjusted q-values.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#20303d">
+<text x="32" y="38" font-size="13" font-weight="700" fill="#9a531c">SYNTHETIC DEMO · NOT STUDY RESULTS</text>
+<text x="32" y="74" font-size="28" font-weight="700">From count tables to statistical summaries</text>
+<text x="32" y="102" font-size="15" fill="#52626c">Existing research functions · toy scenarios · no downloads or controlled data</text>
+<rect x="264" y="124" width="14" height="14" fill="#206d94"/>
+<text x="285" y="136" font-size="14">Activator-like</text>
+<rect x="441" y="124" width="14" height="14" fill="#bb6b29"/>
+<text x="462" y="136" font-size="14">Repressor-like</text>
+<text x="785" y="136" font-size="14">One-sided p / BH q</text>
+<text x="32" y="192" font-size="17" font-weight="700">Toy enrichment</text>
+<rect x="264" y="166" width="480" height="22" rx="3" fill="#edf1f4"/>
+<rect x="264" y="166" width="384.000" height="22" rx="3" fill="#206d94"/>
+<text x="656.000" y="182" font-size="13">80%</text>
+<rect x="264" y="196" width="480" height="22" rx="3" fill="#edf1f4"/>
+<rect x="264" y="196" width="96.000" height="22" rx="3" fill="#bb6b29"/>
+<text x="368.000" y="212" font-size="13">20%</text>
+<text x="785" y="197" font-size="16">0.0115 / 0.0345</text>
+<text x="32" y="300" font-size="17" font-weight="700">Toy balance</text>
+<rect x="264" y="274" width="480" height="22" rx="3" fill="#edf1f4"/>
+<rect x="264" y="274" width="240.000" height="22" rx="3" fill="#206d94"/>
+<text x="512.000" y="290" font-size="13">50%</text>
+<rect x="264" y="304" width="480" height="22" rx="3" fill="#edf1f4"/>
+<rect x="264" y="304" width="240.000" height="22" rx="3" fill="#bb6b29"/>
+<text x="512.000" y="320" font-size="13">50%</text>
+<text x="785" y="305" font-size="16">0.672 / 0.999</text>
+<text x="32" y="408" font-size="17" font-weight="700">Toy depletion</text>
+<rect x="264" y="382" width="480" height="22" rx="3" fill="#edf1f4"/>
+<rect x="264" y="382" width="96.000" height="22" rx="3" fill="#206d94"/>
+<text x="368.000" y="398" font-size="13">20%</text>
+<rect x="264" y="412" width="480" height="22" rx="3" fill="#edf1f4"/>
+<rect x="264" y="412" width="384.000" height="22" rx="3" fill="#bb6b29"/>
+<text x="656.000" y="428" font-size="13">80%</text>
+<text x="785" y="413" font-size="16">0.999 / 0.999</text>
+<text x="264" y="466" font-size="13" fill="#52626c">Fraction on 1q within each toy group (0–100%)</text>
+<text x="32" y="502" font-size="13">Alternative: greater representation among activator-like genes; depletion is not tested in that direction.</text>
+<text x="32" y="527" font-size="13" fill="#9a531c">Illustration only: no biological conclusions or manuscript results are represented.</text>
+</g></svg>
