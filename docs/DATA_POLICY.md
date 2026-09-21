@@ -1,6 +1,10 @@
 # Data Tracking Policy
 
-This repository tracks computational analysis code and filename-only provenance for required external inputs. It does not track generated figures, sensitive data contents, or raw-data archives.
+This repository tracks computational analysis code and filename-only provenance for required external inputs. It does not track research figures, sensitive data contents, or raw-data archives.
+
+### Synthetic demonstration exception
+
+`demo/data/` contains only invented counts with no patient, sample or study-derived records. `demo/example_output/` contains the small CSV and SVG generated from those counts, prominently labelled as synthetic and not study results. These files are permitted solely to make the public code easier to explore. This exception does not authorize publication of real research figures or outputs derived from controlled inputs. New local demo runs go to the ignored `demo/output/` directory by default.
 
 For a public GitHub release, sensitive human subject or controlled-access data must not be included. It is acceptable to document the names of required controlled input files, but not their row-level contents. This includes patient IDs, internal registry IDs, sample IDs, dates, birth years, treatment-center fields, survival/event fields, sample maps, and any table that can link a sample to clinical outcome or controlled sequencing data.
 
@@ -25,7 +29,7 @@ Before public release, keep only lightweight source-code and documentation files
 
 - Controlled or patient/sample-level data contents.
 - Raw sequencing, raw proteomics, raw NetBID2, or source animal workbook files.
-- Generated figures, local caches, or package libraries.
+- Generated research figures, local caches, or package libraries (the explicitly synthetic demo exception above is separate).
 - Files that can be regenerated from controlled inputs unless explicitly approved as deidentified derived tables.
 
 If a future analysis requires a file currently excluded, add a deidentified aggregate or controlled-access retrieval note rather than committing the raw, linked, or sensitive source file.

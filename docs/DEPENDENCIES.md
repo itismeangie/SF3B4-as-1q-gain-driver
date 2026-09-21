@@ -1,6 +1,10 @@
 # Dependencies
 
-This repository contains computational scripts only. It does not vendor package libraries, raw data, generated outputs, or local caches.
+This repository contains computational scripts, documentation and a small synthetic demo. It does not vendor package libraries, raw data, research outputs or local caches.
+
+## Offline Demo
+
+`python3 demo/run_demo.py` needs only Python 3.10 or newer and its standard library. It does not require the research dependencies below. Run its tests with `python3 -m unittest discover -s tests -v`.
 
 ## Runtime
 
@@ -8,7 +12,7 @@ The manuscript software table should be treated as the authoritative version rec
 
 - R 4.4 or newer. The manuscript environment used R 4.5.1.
 - Python 3.10 or newer. The manuscript environment used Python 3.13.5.
-- A POSIX shell for `run.sh` wrappers.
+- Bash for the shell wrappers. `04_netbid2_driver_prioritization/run_sjaracne_networks.sh` requires Bash 4 or newer (`mapfile` and `|&`); the Bash 3.2 bundled with macOS is not sufficient for that runner.
 - `curl` for selected public downloads.
 
 ## Python Packages
@@ -32,6 +36,7 @@ The R scripts use CRAN packages:
 - `broom`
 - `data.table`
 - `dplyr`
+- `msigdbr`
 - `readr`
 - `readxl`
 - `survival`
@@ -54,7 +59,7 @@ The SJAracne network runner also expects `sjaracne` on `PATH` when `04_netbid2_d
 
 ## Conda Skeleton
 
-`environment.yml` provides a lightweight starting point for common dependencies. It may still require manual installation of `NetBID2` and any site-specific packages used with controlled local data.
+`environment.yml` provides a lightweight starting point for common dependencies, not a fully pinned lockfile. It may still require manual installation of `NetBID2` and any site-specific packages used with controlled local data. Creating this environment alone does not establish end-to-end reproducibility of the controlled-data analyses.
 
 ```bash
 conda env create -f environment.yml
