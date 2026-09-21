@@ -119,6 +119,7 @@ ESGA_proteomics_raw/
 06_xenograft_growth/workbooks/
 06_xenograft_growth/tables/
 docs/rerun_path_audit.tsv
+demo/output/
 
 # Public-code release guardrails for sensitive human data.
 # File names can be documented in manifests, but contents should not be public.
